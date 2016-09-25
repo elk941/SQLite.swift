@@ -1,0 +1,5 @@
+framework module SQLite_Bridging {
+    umbrella header "/Users/ethankay/Desktop/test/Sources/SQLite-Bridging/include/SQLite_Bridging.h"
+    link framework "SQLite_Bridging"
+    export *
+}
